@@ -1,1 +1,1 @@
-new testing for conflict branch 1
+city:bangalore
