@@ -1,1 +1,1 @@
-new testing for conflict
+new testing for conflict branch 1
